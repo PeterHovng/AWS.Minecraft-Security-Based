@@ -6,28 +6,34 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-Typically, and as a standard, a worklog is carried out over about 3 months (throughout the internship period) with weekly contents as follows:
+**On this page**, you will need to introduce your worklog. **How** did you complete it? How many weeks did you take to complete the program? **What** did you do in those weeks?
 
-**Week 1:** [Getting familiar with AWS and basic AWS services](1.1-week1/)
+This internship was completed over **12 weeks** and includes two phases:
+- **Weeks 1-10:** Foundation AWS labs covering Free Tier, billing, support, IAM, VPC, EC2, Cloud9, S3, and RDS.
+- **Weeks 11-12:** Graduation project on **AWS + Minecraft + Cyber Security**, including architecture design, deployment, GuardDuty monitoring, Lambda automation, Backup, NLB, Global Accelerator, and cleanup.
 
-**Week 2:** [Doing task A...](1.2-week2/)
+Weekly contents:
 
-**Week 3:** [Doing task B...](1.3-week3/)
+**Week 1:** [AWS Free Tier and credit strategy](1.1-week1/)
 
-**Week 4:** [Doing task C...](1.4-week4/)
+**Week 2:** [AWS Budgets and cost management](1.2-week2/)
 
-**Week 5:** [Doing task D...](1.5-week5/)
+**Week 3:** [AWS Support and help workflow](1.3-week3/)
 
-**Week 6:** [Doing task E...](1.6-week6/)
+**Week 4:** [IAM fundamentals and least-privilege access](1.4-week4/)
 
-**Week 7:** [Doing task G...](1.7-week7/)
+**Week 5:** [VPC networking and connectivity verification](1.5-week5/)
 
-**Week 8:** [Doing task H...](1.8-week8/)
+**Week 6:** [EC2 advanced lifecycle and application deployment](1.6-week6/)
 
-**Week 9:** [Doing task I...](1.9-week9/)
+**Week 7:** [IAM roles for EC2 and secure credential usage](1.7-week7/)
 
-**Week 10:** [Doing task L...](1.10-week10/)
+**Week 8:** [AWS Cloud9 and AWS CLI practice](1.8-week8/)
 
-**Week 11:** [Doing task M...](1.11-week11/)
+**Week 9:** [S3 static website hosting and CloudFront](1.9-week9/)
 
-**Week 12:** [Doing task N...](1.12-week12/)
+**Week 10:** [Amazon RDS deployment and backup recovery](1.10-week10/)
+
+**Week 11:** [Graduation project architecture and platform deployment](1.11-week11/)
+
+**Week 12:** [SOAR automation, alerting, demo, and cleanup](1.12-week12/)

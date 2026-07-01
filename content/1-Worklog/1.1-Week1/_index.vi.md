@@ -5,55 +5,27 @@ weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 
 ### Mục tiêu tuần 1:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Nắm được gói Free Tier 2025, chương trình $200 credit và cách đăng ký thành công.
+* Xây dựng chiến lược bảo vệ chi phí ngay từ tuần đầu.
+* Ghi chép lại bài học cá nhân về các hành vi dễ gây mất credit.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
+| 2 | - Tìm hiểu gói Free Tier 2025 và thay đổi chính<br>- So sánh gói miễn phí với gói trả phí<br>- Xác định các lỗi thường gây mất credit | 11/08/2025 | 11/08/2025 | Tài liệu AWS Free Tier |
+| 3 | - Tạo tài khoản AWS<br>- Bật Multi-Factor Authentication<br>- Ghi nhận các nguyên tắc bảo vệ tài khoản root | 12/08/2025 | 12/08/2025 | Hướng dẫn AWS beginner |
+| 4 | - Liệt kê 5 nhiệm vụ để nhận đủ $200<br>- Ghi nhận tiến độ hoàn thành nhiệm vụ<br>- Lập checklist bảo vệ chi phí | 13/08/2025 | 13/08/2025 | Trang promotions AWS |
+| 5 | - Xác định các hành vi có thể khiến credit bị khóa<br>- Tìm hiểu cách bật cảnh báo chi phí | 14/08/2025 | 15/08/2025 | Tài liệu AWS Billing |
+| 6 | - Tìm hiểu các mẫu kiến trúc phù hợp với mức $200<br>- Nắm khái niệm giám sát và tối ưu chi phí<br>- Ôn FAQ và lộ trình học tiếp theo | 15/08/2025 | 15/08/2025 | AWS Well-Architected Framework |
 
 ### Kết quả đạt được tuần 1:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
+* Hoàn thành đăng ký tài khoản AWS và các bảo vệ cơ bản cho billing.
+* Phân biệt rõ các loại ưu đãi miễn phí: always-free, 12-month free và trial ngắn hạn.
+* Xây dựng được checklist cá nhân để tránh phát sinh chi phí đúng từ tuần đầu.
+* Nắm được thuật ngữ cốt lõi: budget, usage report, billing alarm, service quota.
 * ...
-
-
