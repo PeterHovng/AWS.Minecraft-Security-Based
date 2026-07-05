@@ -140,14 +140,11 @@ Chương trình là một hoạt động học thuật ý nghĩa, giúp học vi
 
 ## 9. Một số hình ảnh khi tham gia sự kiện
 
-![endpoint]( /images/4-EventsParticipated/4.2-Event2/6C7A9632.JPG )
+![endpoint]( /images/4-EventsParticipated/4.2-Event2/6C7A6827.JPG )
 
-![endpoint]( /images/4-EventsParticipated/4.2-Event2/6C7A9664.JPG )
+![endpoint]( /images/4-EventsParticipated/4.2-Event2/6C7A6864.JPG )
 
-![endpoint]( /images/4-EventsParticipated/4.2-Event2/6C7A9734.JPG )
+![endpoint]( /images/4-EventsParticipated/4.2-Event2/6C7A6913.JPG )
 
-![endpoint]( /images/4-EventsParticipated/4.2-Event2/6C7A9728.JPG )
-
-![endpoint]( /images/4-EventsParticipated/4.2-Event2/6C7A9774.JPG )
-
+![endpoint]( /images/4-EventsParticipated/4.2-Event2/6C7A7007.JPG )
 ---

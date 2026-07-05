@@ -161,12 +161,14 @@ First Cloud AI Journey – Agentic AI Build Week là một sự kiện mang nhi�
 
 ## 9. Một số hình ảnh khi tham gia sự kiện
 
-![endpoint]( /images/4-EventsParticipated/4.3-Event3/6C7A6827.JPG )
+![endpoint]( /images/4-EventsParticipated/4.3-Event3/6C7A4659.JPG )
 
-![endpoint]( /images/4-EventsParticipated/4.3-Event3/6C7A6864.JPG )
+![endpoint]( /images/4-EventsParticipated/4.3-Event3/6C7A4714.JPG )
 
-![endpoint]( /images/4-EventsParticipated/4.3-Event3/6C7A6913.JPG )
+![endpoint]( /images/4-EventsParticipated/4.3-Event3/6C7A4765.JPG )
 
-![endpoint]( /images/4-EventsParticipated/4.3-Event3/6C7A7007.JPG )
+![endpoint]( /images/4-EventsParticipated/4.3-Event1/6C7A4812.JPG )
+
+![endpoint]( /images/4-EventsParticipated/4.3-Event3/6C7A4926.JPG )
 
 ---
