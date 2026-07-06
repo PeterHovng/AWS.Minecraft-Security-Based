@@ -28,7 +28,7 @@ In addition, the organizing team provided comprehensive support by supplying lea
 
 The internship aligned closely with my academic background in **Information Technology**, particularly in the areas of **Cloud Computing, Cybersecurity, and DevOps**.
 
-While developing the **Minecraft Server Security Platform on AWS**, I was able to apply knowledge gained from courses such as computer networking, operating systems, information security, and software development. At the same time, I explored many AWS services that were new to me, including Amazon GuardDuty, AWS Lambda, Amazon SNS, AWS Backup, AWS Systems Manager Session Manager, and AWS Global Accelerator.
+While developing the **Minecraft Security Based on AWS**, I was able to apply knowledge gained from courses such as computer networking, operating systems, information security, and software development. At the same time, I explored many AWS services that were new to me, including Amazon GuardDuty, AWS Lambda, Amazon SNS, AWS Backup, AWS Systems Manager Session Manager, and AWS Global Accelerator.
 
 This experience not only reinforced my existing knowledge but also gave me practical insight into how cloud services are integrated to build secure, real-world systems.
 

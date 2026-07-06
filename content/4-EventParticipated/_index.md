@@ -19,31 +19,7 @@ During my internship, I participated in three events. Each one was a memorable e
 
 ---
 
-### [Event 2](4.2-Event2/)  
-### Not participate
-&emsp;**Event Name:** The First Cloud Journey – AWS Vietnam Knowledge Competition  
-
-&emsp;**Date & Time:** 09:00, June 20, 2026  
-
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City   
-
-&emsp;**Role:** Attendee
-
----
-
-### [Event 3](4.3-Event3/) 
-### Not participate
-&emsp;**Event Name:** First Cloud AI Journey – Agentic AI Build Week  
-
-&emsp;**Date & Time:** 09:00, May 30, 2026  
-
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City   
-
-&emsp;**Role:** Attendee 
-
----
-
-### [Event 4](4.4-Event4/) 
+### [Event 2](4.2-Event2/) 
 
 &emsp;**Event Name:** First Cloud AI Journey – Community Day 2026 
 

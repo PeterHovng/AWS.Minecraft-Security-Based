@@ -28,7 +28,7 @@ Bên cạnh đó, Ban tổ chức và đội ngũ hỗ trợ luôn tạo điều
 
 Nội dung thực tập có sự liên kết chặt chẽ với chuyên ngành Công nghệ thông tin, đặc biệt trong các lĩnh vực Cloud Computing, Cyber Security và DevOps.
 
-Thông qua việc nghiên cứu và triển khai dự án **Minecraft Server Security Platform on AWS**, em có cơ hội vận dụng các kiến thức đã học về mạng máy tính, hệ điều hành, bảo mật thông tin và lập trình, đồng thời tiếp cận nhiều công nghệ mới của AWS như Amazon GuardDuty, AWS Lambda, Amazon SNS, AWS Backup, Systems Manager Session Manager và Global Accelerator.
+Thông qua việc nghiên cứu và triển khai dự án **Minecraft Security Based on AWS**, em có cơ hội vận dụng các kiến thức đã học về mạng máy tính, hệ điều hành, bảo mật thông tin và lập trình, đồng thời tiếp cận nhiều công nghệ mới của AWS như Amazon GuardDuty, AWS Lambda, Amazon SNS, AWS Backup, Systems Manager Session Manager và Global Accelerator.
 
 Điều này giúp em không chỉ củng cố nền tảng chuyên môn mà còn hiểu rõ hơn cách các dịch vụ Cloud được ứng dụng trong các hệ thống thực tế.
 

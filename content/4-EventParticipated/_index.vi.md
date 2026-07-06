@@ -20,32 +20,6 @@ Trong quá trình thực tập, em đã có cơ hội tham gia ba sự kiện li
 ---
 
 ### [Sự kiện 2](4.2-Event2/)  
-### KHÔNG THAM GIA
-
-&emsp;**Tên sự kiện:** Cuộc thi kiến thức The First Cloud Journey – AWS Việt Nam  
-
-&emsp;**Thời gian:** Ngày 20/06/2026  
-
-&emsp;**Địa điểm:** Thành phố Hồ Chí Minh  
-
-&emsp;**Vai trò:** Người tham dự  
-
----
-
-### [Sự kiện 3](4.3-Event3/)  
-### KHÔNG THAM GIA
-
-&emsp;**Tên sự kiện:** First Cloud AI Journey – Agentic AI Build Week  
-
-&emsp;**Thời gian:** 09:00, ngày 30/05/2026  
-
-&emsp;**Địa điểm:** Thành phố Hồ Chí Minh  
-
-&emsp;**Vai trò:** Người tham dự 
-
----
-
-### [Sự kiện 4](4.4-Event3/)  
 
 &emsp;**Tên sự kiện:** First Cloud AI Journey – Community Day 2026
 
