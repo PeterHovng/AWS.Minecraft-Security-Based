@@ -23,7 +23,7 @@ pre: " <b> 1.3. </b> "
 | 5 | - Tìm hiểu IAM Role dành cho AWS Services<br>- Phân biệt IAM User và IAM Role trong thực tế triển khai | 07/05/2026 | 07/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | 6 | - Tổng hợp kiến thức IAM<br>- Hoàn thành Hands-on Labs về quản lý người dùng và phân quyền | 08/05/2026 | 08/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | 7 | - Ôn tập toàn bộ kiến thức IAM<br>- Cập nhật ghi chú học tập và hoàn thiện các bài Lab còn lại | 09/05/2026 | 09/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
-| CN | - Tự học Cyber Security theo định hướng Red Team<br>- Tìm hiểu các kỹ thuật Privilege Escalation và Credential Security<br>- Chuẩn bị kiến thức Networking cho tuần tiếp theo | 10/05/2026 | 10/05/2026 | Personal Notes, Udemy |
+| CN | - Tự học Cyber Security theo định hướng Red Team<br>- Tìm hiểu các kỹ thuật Privilege Escalation và Credential Security<br>- Chuẩn bị kiến thức Networking cho tuần tiếp theo | 10/05/2026 | 10/05/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Kết quả đạt được tuần 3:
 

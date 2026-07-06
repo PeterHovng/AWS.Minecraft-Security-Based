@@ -17,13 +17,13 @@ pre: " <b> 1.12. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Rà soát toàn bộ project Minecraft Security Based on AWS<br>- Kiểm tra các dịch vụ AWS đã triển khai<br>- Khắc phục các lỗi còn tồn tại | 06/07/2026 | 06/07/2026 | Personal Project Notes |
-| 3 | - Hoàn thiện Workshop Project theo yêu cầu của chương trình AWS First Cloud Journey<br>- Chuẩn bị tài liệu, mã nguồn và hình ảnh minh họa để nộp cho công ty | 07/07/2026 | 07/07/2026 | AWS First Cloud Journey Guidelines |
-| 4 | - Hoàn thiện báo cáo thực tập và tài liệu kỹ thuật<br>- Cập nhật sơ đồ kiến trúc, Worklog và tài liệu Markdown song ngữ | 08/07/2026 | 08/07/2026 | Personal Documentation |
-| 5 | - Kiểm tra lần cuối toàn bộ hệ thống<br>- Dọn dẹp các tài nguyên AWS không còn sử dụng<br>- Kiểm tra AWS Billing Dashboard để đảm bảo không phát sinh chi phí ngoài dự kiến | 09/07/2026 | 09/07/2026 | AWS Billing & Cost Management |
-| 6 | - Chuẩn bị slide và nội dung trình bày kết quả thực tập<br>- Tổng hợp những kiến thức, kỹ năng và kinh nghiệm đã đạt được trong suốt chương trình | 10/07/2026 | 10/07/2026 | Personal Notes |
-| 7 | - Hoàn thiện hồ sơ thực tập<br>- Kiểm tra lại toàn bộ tài liệu trước khi nộp<br>- Chuẩn bị cho buổi tổng kết chương trình | 11/07/2026 | 11/07/2026 | Internship Documentation |
-| CN | - Tổng kết chương trình thực tập AWS First Cloud Journey<br>- Đánh giá kết quả đạt được, những bài học kinh nghiệm và định hướng phát triển trong tương lai | 12/07/2026 | 12/07/2026 | Personal Reflection |
+| 2 | - Rà soát toàn bộ project Minecraft Security Based on AWS<br>- Kiểm tra các dịch vụ AWS đã triển khai<br>- Khắc phục các lỗi còn tồn tại | 06/07/2026 | 06/07/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| 3 | - Hoàn thiện Workshop Project theo yêu cầu của chương trình AWS First Cloud Journey<br>- Chuẩn bị tài liệu, mã nguồn và hình ảnh minh họa để nộp cho công ty | 07/07/2026 | 07/07/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| 4 | - Hoàn thiện báo cáo thực tập và tài liệu kỹ thuật<br>- Cập nhật sơ đồ kiến trúc, Worklog và tài liệu Markdown song ngữ | 08/07/2026 | 08/07/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| 5 | - Kiểm tra lần cuối toàn bộ hệ thống<br>- Dọn dẹp các tài nguyên AWS không còn sử dụng<br>- Kiểm tra AWS Billing Dashboard để đảm bảo không phát sinh chi phí ngoài dự kiến | 09/07/2026 | 09/07/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| 6 | - Chuẩn bị slide và nội dung trình bày kết quả thực tập<br>- Tổng hợp những kiến thức, kỹ năng và kinh nghiệm đã đạt được trong suốt chương trình | 10/07/2026 | 10/07/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| 7 | - Hoàn thiện hồ sơ thực tập<br>- Kiểm tra lại toàn bộ tài liệu trước khi nộp<br>- Chuẩn bị cho buổi tổng kết chương trình | 11/07/2026 | 11/07/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| CN | - Tổng kết chương trình thực tập AWS First Cloud Journey<br>- Đánh giá kết quả đạt được, những bài học kinh nghiệm và định hướng phát triển trong tương lai | 12/07/2026 | 12/07/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Kết quả đạt được tuần 12:
 

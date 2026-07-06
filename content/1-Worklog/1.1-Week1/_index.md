@@ -21,9 +21,9 @@ pre: " <b> 1.1. </b> "
 | Tue | - Set up the AWS account and enable Multi-Factor Authentication (MFA)<br>- Become familiar with the AWS Management Console<br>- Learn about AWS Free Tier and AWS Credits | 21/04/2026 | 21/04/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | Wed | - Complete the first Hands-on labs provided by AWS Study Group<br>- Become familiar with the learning approach that combines theory and practical exercises | 22/04/2026 | 22/04/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | Thu | - Explore different AWS career paths (Cloud Engineer, DevOps Engineer, DevSecOps Engineer, Solutions Architect, etc.)<br>- Decide to pursue **DevSecOps** as the primary career direction | 23/04/2026 | 23/04/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
-| Fri | - Create a personal 12-week learning roadmap<br>- Develop a self-study plan for **Cyber Security (Red Team)** to improve offensive and defensive security knowledge in cloud environments | 24/04/2026 | 24/04/2026 | Personal Learning Plan |
+| Fri | - Create a personal 12-week learning roadmap<br>- Develop a self-study plan for **Cyber Security (Red Team)** to improve offensive and defensive security knowledge in cloud environments | 24/04/2026 | 24/04/2026 | Personal Learning Plan Google Docs |
 | Sat | - Review all topics learned during the week<br>- Rewatch AWS Fundamentals videos from AWS Study Group<br>- Complete any remaining Hands-on exercises | 25/04/2026 | 25/04/2026 | https://www.youtube.com/@AWSStudyGroup<br>https://cloudjourney.awsstudygroup.com/ |
-| Sun | - Summarize the knowledge gained during the first week<br>- Organize personal notes using Notion/GitHub<br>- Prepare the study plan for Week 2 | 26/04/2026 | 26/04/2026 | Personal Notes |
+| Sun | - Summarize the knowledge gained during the first week<br>- Organize personal notes using Notion/GitHub<br>- Prepare the study plan for Week 2 | 26/04/2026 | 26/04/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Week 1 Achievements:
 

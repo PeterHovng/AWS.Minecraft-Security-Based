@@ -17,13 +17,13 @@ pre: " <b> 1.7. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Khởi động project Minecraft Security Based on AWS<br>- Xây dựng kiến trúc tổng thể của hệ thống<br>- Chuẩn bị môi trường AWS phục vụ triển khai | 01/06/2026 | 01/06/2026 | Personal Project Notes |
+| 2 | - Khởi động project Minecraft Security Based on AWS<br>- Xây dựng kiến trúc tổng thể của hệ thống<br>- Chuẩn bị môi trường AWS phục vụ triển khai | 01/06/2026 | 01/06/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
 | 3 | - Tạo Amazon VPC và Public Subnet<br>- Cấu hình Internet Gateway và Route Table<br>- Thiết lập Security Group cho Minecraft Server | 02/06/2026 | 02/06/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | 4 | - Khởi tạo Amazon EC2 Ubuntu Server<br>- Gán IAM Role với AmazonSSMManagedInstanceCore<br>- Kết nối EC2 thông qua AWS Systems Manager Session Manager | 03/06/2026 | 03/06/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | 5 | - Cài đặt Java và PaperMC Minecraft Server trên EC2<br>- Cấu hình EULA và kiểm tra khả năng khởi động của server | 04/06/2026 | 04/06/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
-| 6 | - Tạo tài khoản `minecraft` để vận hành dịch vụ<br>- Cấu hình Minecraft Server chạy không sử dụng quyền root<br>- Kiểm tra kết nối từ máy khách | 05/06/2026 | 05/06/2026 | Personal Project Notes |
+| 6 | - Tạo tài khoản `minecraft` để vận hành dịch vụ<br>- Cấu hình Minecraft Server chạy không sử dụng quyền root<br>- Kiểm tra kết nối từ máy khách | 05/06/2026 | 05/06/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
 | 7 | - Tham gia sự kiện **Mini Meetup – First Cloud AI Journey** với vai trò **Diễn giả (Speaker)**<br>- Chia sẻ kinh nghiệm học tập và thực hành AWS cùng các thành viên chương trình<br>- Trao đổi chuyên môn với mentor và cộng đồng AWS | 06/06/2026 | 06/06/2026 | Mini Meetup – First Cloud AI Journey |
-| CN | - Tổng hợp tiến độ tuần đầu tiên của project<br>- Cập nhật tài liệu triển khai và ghi chú kỹ thuật<br>- Lập kế hoạch triển khai các tính năng bảo mật trong tuần tiếp theo | 07/06/2026 | 07/06/2026 | Personal Notes |
+| CN | - Tổng hợp tiến độ tuần đầu tiên của project<br>- Cập nhật tài liệu triển khai và ghi chú kỹ thuật<br>- Lập kế hoạch triển khai các tính năng bảo mật trong tuần tiếp theo | 07/06/2026 | 07/06/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Kết quả đạt được tuần 7:
 

@@ -22,8 +22,8 @@ pre: " <b> 1.8. </b> "
 | 4 | - Viết mã nguồn Lambda để xử lý Security Findings<br>- Kiểm tra log thực thi trên Amazon CloudWatch Logs | 10/06/2026 | 10/06/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | 5 | - Tạo Amazon EventBridge Rule nhận sự kiện từ GuardDuty<br>- Liên kết EventBridge với Lambda Function | 11/06/2026 | 11/06/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | 6 | - Tạo Amazon SNS Topic và Email Subscription<br>- Kiểm thử gửi Email cảnh báo khi phát hiện Security Findings | 12/06/2026 | 12/06/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
-| 7 | - Kiểm thử toàn bộ quy trình GuardDuty → EventBridge → Lambda → SNS<br>- Điều chỉnh và tối ưu xử lý sự kiện | 13/06/2026 | 13/06/2026 | Personal Project Notes |
-| CN | - Cập nhật tài liệu triển khai và sơ đồ kiến trúc hệ thống<br>- Chuẩn bị triển khai các thành phần Backup và Network Load Balancer trong tuần tiếp theo | 14/06/2026 | 14/06/2026 | Personal Notes, Udemy |
+| 7 | - Kiểm thử toàn bộ quy trình GuardDuty → EventBridge → Lambda → SNS<br>- Điều chỉnh và tối ưu xử lý sự kiện | 13/06/2026 | 13/06/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| CN | - Cập nhật tài liệu triển khai và sơ đồ kiến trúc hệ thống<br>- Chuẩn bị triển khai các thành phần Backup và Network Load Balancer trong tuần tiếp theo | 14/06/2026 | 14/06/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Kết quả đạt được tuần 8:
 

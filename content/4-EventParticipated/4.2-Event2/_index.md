@@ -1,12 +1,12 @@
 ---
 title: "Event 2"
 date: 2024-01-01
-weight: 1
+weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# AWS MEETUP EVENT REPORT
+# AWS MEETUP EVENT REPORT (Not participate)
 
 | Information | Details |
 |-------------|---------|

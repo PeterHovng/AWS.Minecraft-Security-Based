@@ -23,7 +23,7 @@ pre: " <b> 1.4. </b> "
 | 5 | - Tìm hiểu Security Group và Network ACL<br>- So sánh sự khác nhau giữa hai cơ chế kiểm soát truy cập<br>- Thực hành cấu hình các Inbound và Outbound Rules | 14/05/2026 | 14/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | 6 | - Tổng hợp kiến thức AWS Networking<br>- Hoàn thành Hands-on Labs về VPC và Security Group | 15/05/2026 | 15/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | 7 | - Ôn tập toàn bộ kiến thức Networking<br>- Hoàn thành các bài Lab còn lại và cập nhật ghi chú học tập | 16/05/2026 | 16/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
-| CN | - Tự học Cyber Security theo định hướng Red Team<br>- Tìm hiểu các kỹ thuật Network Scanning, Port Scanning và Enumeration<br>- Liên hệ kiến thức với việc bảo vệ hệ thống Cloud | 17/05/2026 | 17/05/2026 | Personal Notes, Udemy, Google |
+| CN | - Tự học Cyber Security theo định hướng Red Team<br>- Tìm hiểu các kỹ thuật Network Scanning, Port Scanning và Enumeration<br>- Liên hệ kiến thức với việc bảo vệ hệ thống Cloud | 17/05/2026 | 17/05/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Kết quả đạt được tuần 4:
 

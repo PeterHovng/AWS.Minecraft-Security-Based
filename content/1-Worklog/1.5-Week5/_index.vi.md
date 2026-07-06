@@ -23,7 +23,7 @@ pre: " <b> 1.5. </b> "
 | 5 | - Thực hành các lệnh Linux cơ bản trên Ubuntu Server<br>- Quản lý file, thư mục, người dùng và quyền truy cập<br>- Cập nhật hệ thống bằng APT | 21/05/2026 | 21/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | 6 | - Tổng hợp quy trình triển khai và quản trị EC2<br>- Hoàn thành Hands-on Labs về Amazon EC2 và Systems Manager | 22/05/2026 | 22/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | 7 | - Ôn tập toàn bộ kiến thức EC2 và Linux Administration<br>- Hoàn thành các bài Lab còn lại và cập nhật ghi chú học tập | 23/05/2026 | 23/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
-| CN | - Tự học Cyber Security theo định hướng Red Team<br>- Tìm hiểu các kỹ thuật Linux Privilege Escalation và SSH Security<br>- Chuẩn bị kiến thức Monitoring & Security cho tuần tiếp theo | 24/05/2026 | 24/05/2026 | Personal Notes |
+| CN | - Tự học Cyber Security theo định hướng Red Team<br>- Tìm hiểu các kỹ thuật Linux Privilege Escalation và SSH Security<br>- Chuẩn bị kiến thức Monitoring & Security cho tuần tiếp theo | 24/05/2026 | 24/05/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Kết quả đạt được tuần 5:
 

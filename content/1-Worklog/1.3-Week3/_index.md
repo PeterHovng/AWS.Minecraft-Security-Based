@@ -23,7 +23,7 @@ pre: " <b> 1.3. </b> "
 | Thu | - Learn IAM Roles for AWS Services<br>- Compare IAM Users and IAM Roles in real-world deployments | 07/05/2026 | 07/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | Fri | - Summarize IAM concepts<br>- Complete Hands-on Labs related to user and permission management | 08/05/2026 | 08/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | Sat | - Review all IAM topics covered during the week<br>- Update learning notes and complete any remaining Hands-on Labs | 09/05/2026 | 09/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
-| Sun | - Continue self-learning Cyber Security with a Red Team focus<br>- Learn Privilege Escalation and Credential Security concepts<br>- Prepare Networking knowledge for the following week | 10/05/2026 | 10/05/2026 | Personal Notes, Udemy |
+| Sun | - Continue self-learning Cyber Security with a Red Team focus<br>- Learn Privilege Escalation and Credential Security concepts<br>- Prepare Networking knowledge for the following week | 10/05/2026 | 10/05/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Week 3 Achievements:
 

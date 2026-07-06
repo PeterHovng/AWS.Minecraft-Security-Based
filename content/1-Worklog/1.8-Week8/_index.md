@@ -22,8 +22,8 @@ pre: " <b> 1.8. </b> "
 | Wed | - Develop the Lambda function to process security findings<br>- Verify execution logs using Amazon CloudWatch Logs | 10/06/2026 | 10/06/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | Thu | - Create an Amazon EventBridge Rule for GuardDuty events<br>- Connect EventBridge with the Lambda function | 11/06/2026 | 11/06/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | Fri | - Create an Amazon SNS Topic and Email Subscription<br>- Test email notifications triggered by security findings | 12/06/2026 | 12/06/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
-| Sat | - Perform end-to-end testing of the GuardDuty → EventBridge → Lambda → SNS workflow<br>- Optimize the event processing logic | 13/06/2026 | 13/06/2026 | Personal Project Notes |
-| Sun | - Update the deployment documentation and architecture diagram<br>- Prepare for implementing AWS Backup and Network Load Balancer in the following week | 14/06/2026 | 14/06/2026 | Personal Notes |
+| Sat | - Perform end-to-end testing of the GuardDuty → EventBridge → Lambda → SNS workflow<br>- Optimize the event processing logic | 13/06/2026 | 13/06/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| Sun | - Update the deployment documentation and architecture diagram<br>- Prepare for implementing AWS Backup and Network Load Balancer in the following week | 14/06/2026 | 14/06/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Week 8 Achievements:
 

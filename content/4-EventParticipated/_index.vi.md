@@ -16,9 +16,12 @@ Trong quá trình thực tập, em đã có cơ hội tham gia ba sự kiện li
 &emsp;**Địa điểm:** Tầng 26, Tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh  
 
 &emsp;**Vai trò:** Diễn giả (Speaker)  
+
 ---
 
 ### [Sự kiện 2](4.2-Event2/)  
+### KHÔNG THAM GIA
+
 &emsp;**Tên sự kiện:** Cuộc thi kiến thức The First Cloud Journey – AWS Việt Nam  
 
 &emsp;**Thời gian:** Ngày 20/06/2026  
@@ -26,12 +29,27 @@ Trong quá trình thực tập, em đã có cơ hội tham gia ba sự kiện li
 &emsp;**Địa điểm:** Thành phố Hồ Chí Minh  
 
 &emsp;**Vai trò:** Người tham dự  
+
 ---
 
 ### [Sự kiện 3](4.3-Event3/)  
+### KHÔNG THAM GIA
+
 &emsp;**Tên sự kiện:** First Cloud AI Journey – Agentic AI Build Week  
 
 &emsp;**Thời gian:** 09:00, ngày 30/05/2026  
+
+&emsp;**Địa điểm:** Thành phố Hồ Chí Minh  
+
+&emsp;**Vai trò:** Người tham dự 
+
+---
+
+### [Sự kiện 4](4.4-Event3/)  
+
+&emsp;**Tên sự kiện:** First Cloud AI Journey – Community Day 2026
+
+&emsp;**Thời gian:** 09:00, ngày 21/03/2026  
 
 &emsp;**Địa điểm:** Thành phố Hồ Chí Minh  
 

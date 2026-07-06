@@ -23,7 +23,7 @@ pre: " <b> 1.4. </b> "
 | Thu | - Learn Security Groups and Network ACLs<br>- Compare both network access control mechanisms<br>- Practice configuring inbound and outbound rules | 14/05/2026 | 14/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | Fri | - Summarize AWS Networking concepts<br>- Complete Hands-on Labs related to VPC and Security Groups | 15/05/2026 | 15/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | Sat | - Review all Networking topics covered during the week<br>- Complete remaining Hands-on Labs and update learning notes | 16/05/2026 | 16/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
-| Sun | - Continue self-learning Cyber Security with a Red Team focus<br>- Study Network Scanning, Port Scanning, and Enumeration techniques<br>- Relate these concepts to securing cloud environments | 17/05/2026 | 17/05/2026 | Personal Notes |
+| Sun | - Continue self-learning Cyber Security with a Red Team focus<br>- Study Network Scanning, Port Scanning, and Enumeration techniques<br>- Relate these concepts to securing cloud environments | 17/05/2026 | 17/05/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Week 4 Achievements:
 

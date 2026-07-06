@@ -23,7 +23,7 @@ pre: " <b> 1.1. </b> "
 | 5 | - Tìm hiểu các định hướng nghề nghiệp trên nền tảng AWS (Cloud Engineer, DevOps, DevSecOps, Solutions Architect...)<br>- Quyết định lựa chọn định hướng **DevSecOps** làm mục tiêu phát triển chính | 23/04/2026 | 23/04/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | 6 | - Xây dựng lộ trình học tập cá nhân trong 12 tuần thực tập<br>- Lập kế hoạch tự học bổ sung về **Cyber Security (Red Team)** để nâng cao tư duy tấn công và phòng thủ trên môi trường Cloud | 24/04/2026 | 24/04/2026 | Personal Learning Plan |
 | 7 | - Ôn tập lại các nội dung đã học trong tuần<br>- Xem lại video AWS Study Group về AWS Fundamentals<br>- Hoàn thành các bài Hands-on còn lại | 25/04/2026 | 25/04/2026 | https://www.youtube.com/@AWSStudyGroup<br>https://cloudjourney.awsstudygroup.com/ |
-| CN | - Tổng hợp kiến thức tuần đầu tiên<br>- Hoàn thiện ghi chú cá nhân trên Notion/GitHub<br>- Lập kế hoạch học tập cho tuần 2 | 26/04/2026 | 26/04/2026 | Personal Notes, Udemy |
+| CN | - Tổng hợp kiến thức tuần đầu tiên<br>- Hoàn thiện ghi chú cá nhân trên Notion/GitHub<br>- Lập kế hoạch học tập cho tuần 2 | 26/04/2026 | 26/04/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Kết quả đạt được tuần 1:
 

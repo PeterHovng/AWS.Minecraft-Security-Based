@@ -23,7 +23,7 @@ pre: " <b> 1.2. </b> "
 | 5 | - Làm quen với AWS Management Console<br>- Tìm hiểu các dịch vụ EC2, IAM, VPC, S3 và CloudWatch | 30/04/2026 | 30/04/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | 6 | - Tổng hợp kiến thức Cloud Foundation<br>- Hoàn thành các Hands-on Labs cơ bản về AWS Fundamentals | 01/05/2026 | 01/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | 7 | - Ôn tập lại toàn bộ kiến thức đã học trong tuần<br>- Cập nhật ghi chú cá nhân và hoàn thành các bài Lab còn lại | 02/05/2026 | 02/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
-| CN | - Tự học Cyber Security theo định hướng Red Team<br>- Tìm hiểu các khái niệm Reconnaissance, Enumeration và Attack Surface<br>- Chuẩn bị kiến thức cho tuần học tiếp theo | 03/05/2026 | 03/05/2026 | Personal Notes, Udemy |
+| CN | - Tự học Cyber Security theo định hướng Red Team<br>- Tìm hiểu các khái niệm Reconnaissance, Enumeration và Attack Surface<br>- Chuẩn bị kiến thức cho tuần học tiếp theo | 03/05/2026 | 03/05/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Kết quả đạt được tuần 2:
 

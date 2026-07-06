@@ -23,7 +23,7 @@ pre: " <b> 1.2. </b> "
 | Thu | - Explore the AWS Management Console<br>- Learn the purposes of EC2, IAM, VPC, S3, and CloudWatch | 30/04/2026 | 30/04/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | Fri | - Summarize Cloud Foundation concepts<br>- Complete the introductory AWS Fundamentals Hands-on Labs | 01/05/2026 | 01/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | Sat | - Review all topics covered during the week<br>- Update personal learning notes and complete any remaining labs | 02/05/2026 | 02/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
-| Sun | - Continue self-learning Cyber Security with a Red Team focus<br>- Study Reconnaissance, Enumeration, and Attack Surface concepts<br>- Prepare for next week's Networking topics | 03/05/2026 | 03/05/2026 | Personal Notes |
+| Sun | - Continue self-learning Cyber Security with a Red Team focus<br>- Study Reconnaissance, Enumeration, and Attack Surface concepts<br>- Prepare for next week's Networking topics | 03/05/2026 | 03/05/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Week 2 Achievements:
 

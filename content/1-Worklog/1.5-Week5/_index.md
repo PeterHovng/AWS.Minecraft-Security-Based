@@ -23,7 +23,7 @@ pre: " <b> 1.5. </b> "
 | Thu | - Practice essential Linux commands on Ubuntu Server<br>- Manage files, directories, users, and permissions<br>- Update the operating system using APT | 21/05/2026 | 21/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | Fri | - Summarize the EC2 deployment and administration process<br>- Complete Hands-on Labs related to Amazon EC2 and Systems Manager | 22/05/2026 | 22/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/|
 | Sat | - Review all EC2 and Linux Administration topics<br>- Complete remaining Hands-on Labs and update learning notes | 23/05/2026 | 23/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
-| Sun | - Continue self-learning Cyber Security with a Red Team focus<br>- Study Linux Privilege Escalation and SSH Security techniques<br>- Prepare Monitoring & Security knowledge for the following week | 24/05/2026 | 24/05/2026 | Personal Notes |
+| Sun | - Continue self-learning Cyber Security with a Red Team focus<br>- Study Linux Privilege Escalation and SSH Security techniques<br>- Prepare Monitoring & Security knowledge for the following week | 24/05/2026 | 24/05/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Week 5 Achievements:
 

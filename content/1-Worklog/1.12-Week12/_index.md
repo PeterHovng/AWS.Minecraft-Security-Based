@@ -17,13 +17,13 @@ pre: " <b> 1.12. </b> "
 
 | Day | Tasks | Start Date | Completion Date | References |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| Mon | - Review the entire Minecraft Security Based on AWS project<br>- Verify all deployed AWS services<br>- Fix any remaining issues | 06/07/2026 | 06/07/2026 | Personal Project Notes |
-| Tue | - Complete the Workshop Project required by the AWS First Cloud Journey program<br>- Prepare the source code, documentation, and supporting screenshots for submission | 07/07/2026 | 07/07/2026 | AWS First Cloud Journey Guidelines |
-| Wed | - Finalize the internship report and technical documentation<br>- Update the architecture diagram, worklog, and bilingual Markdown documentation | 08/07/2026 | 08/07/2026 | Personal Documentation |
-| Thu | - Perform a final system verification<br>- Clean up unused AWS resources<br>- Review the AWS Billing Dashboard to ensure no unexpected charges remain | 09/07/2026 | 09/07/2026 | AWS Billing & Cost Management |
-| Fri | - Prepare the presentation slides and internship summary<br>- Consolidate the knowledge, technical skills, and practical experience gained throughout the program | 10/07/2026 | 10/07/2026 | Personal Notes |
-| Sat | - Finalize the internship submission package<br>- Review all documentation before submission<br>- Prepare for the internship closing session | 11/07/2026 | 11/07/2026 | Internship Documentation |
-| Sun | - Conclude the AWS First Cloud Journey internship program<br>- Evaluate achievements, lessons learned, and future career development plans | 12/07/2026 | 12/07/2026 | Personal Reflection |
+| Mon | - Review the entire Minecraft Security Based on AWS project<br>- Verify all deployed AWS services<br>- Fix any remaining issues | 06/07/2026 | 06/07/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| Tue | - Complete the Workshop Project required by the AWS First Cloud Journey program<br>- Prepare the source code, documentation, and supporting screenshots for submission | 07/07/2026 | 07/07/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| Wed | - Finalize the internship report and technical documentation<br>- Update the architecture diagram, worklog, and bilingual Markdown documentation | 08/07/2026 | 08/07/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| Thu | - Perform a final system verification<br>- Clean up unused AWS resources<br>- Review the AWS Billing Dashboard to ensure no unexpected charges remain | 09/07/2026 | 09/07/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| Fri | - Prepare the presentation slides and internship summary<br>- Consolidate the knowledge, technical skills, and practical experience gained throughout the program | 10/07/2026 | 10/07/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| Sat | - Finalize the internship submission package<br>- Review all documentation before submission<br>- Prepare for the internship closing session | 11/07/2026 | 11/07/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
+| Sun | - Conclude the AWS First Cloud Journey internship program<br>- Evaluate achievements, lessons learned, and future career development plans | 12/07/2026 | 12/07/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Week 12 Achievements:
 
