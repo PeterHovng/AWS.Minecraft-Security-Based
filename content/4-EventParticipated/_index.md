@@ -9,7 +9,7 @@ pre: " <b> 4. </b> "
 During my internship, I participated in three events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
 
 ### [Event 1](4.1-Event1/)  
-&emsp;**Event Name:** Mini Meetup – First Cloud AI Journey  
+&emsp;**Event Name:** First Cloud AI Journey – Mini Meetup
 
 &emsp;**Date & Time:** 09:00, June 6, 2026  
 
