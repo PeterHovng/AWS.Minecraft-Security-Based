@@ -22,7 +22,7 @@ pre: " <b> 1.9. </b> "
 | 4 | - Kiểm tra Recovery Point được tạo tự động<br>- Thực hành quy trình khôi phục dữ liệu từ AWS Backup<br>- Đánh giá khả năng phục hồi sau sự cố | 17/06/2026 | 17/06/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
 | 5 | - Tạo Target Group và Network Load Balancer<br>- Cấu hình TCP Listener cho Minecraft Server<br>- Kiểm thử lưu lượng qua NLB | 18/06/2026 | 18/06/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
 | 6 | - Tối ưu cấu hình Network Load Balancer<br>- Kiểm tra trạng thái Health Check và Target Group<br>- Hoàn thiện tài liệu triển khai | 19/06/2026 | 19/06/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
-| 7 | - Tham gia cuộc thi **The First Cloud Journey – AWS Việt Nam Knowledge Competition**<br>- Giao lưu với các thành viên chương trình và mở rộng kiến thức về AWS Cloud<br>- Tổng hợp những kiến thức và kinh nghiệm thu nhận được sau cuộc thi | 20/06/2026 | 20/06/2026 | The First Cloud Journey – AWS Việt Nam Knowledge Competition |
+| 7 | - Học Kali Linux, lập môi trường cloud thực hành tấn công | 20/06/2026 | 20/06/2026 | Gemini Learn Step-by-step |
 | CN | - Cập nhật tài liệu project và sơ đồ kiến trúc<br>- Chuẩn bị triển khai AWS Global Accelerator và hoàn thiện hệ thống trong tuần tiếp theo | 21/06/2026 | 21/06/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Kết quả đạt được tuần 9:

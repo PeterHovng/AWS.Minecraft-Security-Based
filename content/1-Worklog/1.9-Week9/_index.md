@@ -22,7 +22,7 @@ pre: " <b> 1.9. </b> "
 | Wed | - Verify automatically created Recovery Points<br>- Practice restoring data from AWS Backup<br>- Evaluate disaster recovery capabilities | 17/06/2026 | 17/06/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
 | Thu | - Create a Target Group and Network Load Balancer<br>- Configure a TCP Listener for the Minecraft Server<br>- Test traffic routing through the NLB | 18/06/2026 | 18/06/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
 | Fri | - Optimize the Network Load Balancer configuration<br>- Verify Target Group Health Checks<br>- Update deployment documentation | 19/06/2026 | 19/06/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
-| Sat | - Participate in **The First Cloud Journey – AWS Vietnam Knowledge Competition**<br>- Exchange knowledge with AWS community members<br>- Summarize key lessons and experiences gained from the competition | 20/06/2026 | 20/06/2026 | The First Cloud Journey – AWS Vietnam Knowledge Competition |
+| Sat | - Learn Kali Linux and Build a Cloud-Based Penetration Testing Lab | 20/06/2026 | 20/06/2026 | Gemini Learn Step-by-step |
 | Sun | - Update the project documentation and architecture diagram<br>- Prepare for deploying AWS Global Accelerator and final system optimization in the following week | 21/06/2026 | 21/06/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Week 9 Achievements:

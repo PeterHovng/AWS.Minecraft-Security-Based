@@ -22,7 +22,7 @@ pre: " <b> 1.6. </b> "
 | Wed | - Learn Amazon GuardDuty and common security findings<br>- Explore EventBridge, AWS Lambda, and Amazon SNS for automated security notifications | 27/05/2026 | 27/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/ |
 | Thu | - Analyze project requirements<br>- Design the **Minecraft Security Based on AWS** architecture<br>- Identify AWS services required for the project | 28/05/2026 | 28/05/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
 | Fri | - Finalize the architecture diagram and implementation plan<br>- Prepare the AWS environment for project deployment starting on 01/06/2026 | 29/05/2026 | 29/05/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6)|
-| Sat | - Attend the **First Cloud AI Journey – Agentic AI Build Week** in Ho Chi Minh City<br>- Learn about Agentic AI trends and AI applications on AWS<br>- Exchange knowledge and experience with mentors and other participants | 30/05/2026 | 30/05/2026 | First Cloud AI Journey – Agentic AI Build Week |
+| Sat | - Learn Kali Linux and Set Up a Cloud Environment for Defensive Security Practice | 30/05/2026 | 30/05/2026 | First Cloud AI Journey – Agentic AI Build Week |
 | Sun | - Review all knowledge gained during the first six weeks<br>- Finalize learning notes and review the project implementation plan<br>- Prepare to begin the project implementation phase | 31/05/2026 | 31/05/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Week 6 Achievements:

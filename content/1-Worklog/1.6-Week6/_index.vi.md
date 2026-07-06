@@ -22,7 +22,7 @@ pre: " <b> 1.6. </b> "
 | 4 | - Tìm hiểu Amazon GuardDuty và các loại Security Findings<br>- Làm quen với EventBridge, Lambda và Amazon SNS trong mô hình cảnh báo bảo mật | 27/05/2026 | 27/05/2026 | https://www.youtube.com/@AWSStudyGroup https://cloudjourney.awsstudygroup.com/|
 | 5 | - Phân tích yêu cầu project<br>- Thiết kế kiến trúc **Minecraft Security Based on AWS**<br>- Xác định các dịch vụ AWS sẽ sử dụng trong project | 28/05/2026 | 28/05/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
 | 6 | - Hoàn thiện sơ đồ kiến trúc và kế hoạch triển khai project<br>- Chuẩn bị môi trường để bắt đầu project từ ngày 01/06/2026 | 29/05/2026 | 29/05/2026 | [Report Minecraft Security Based on AWS](https://docs.google.com/document/d/1gLwVqTCD2lwx72q6pu60ZA4vUM945DOM860uvY6uNTI/edit?tab=t.0#heading=h.ceilhw2z2uk6) |
-| 7 | - Tham dự sự kiện **First Cloud AI Journey – Agentic AI Build Week** tại Thành phố Hồ Chí Minh<br>- Tìm hiểu các xu hướng Agentic AI và ứng dụng AI trên nền tảng AWS<br>- Trao đổi kinh nghiệm với mentor và các thành viên trong chương trình | 30/05/2026 | 30/05/2026 | First Cloud AI Journey – Agentic AI Build Week |
+| 7 | - Học Kali Linux, lập môi trường cloud thực hành phòng thủ | 30/05/2026 | 30/05/2026 | Gemini Learn Step-by-step |
 | CN | - Tổng hợp kiến thức đã học trong 6 tuần đầu<br>- Hoàn thiện ghi chú và rà soát kế hoạch triển khai project<br>- Chuẩn bị bắt đầu giai đoạn thực hiện project | 31/05/2026 | 31/05/2026 | Personal Notes, Udemy, Cousrera, Oreilly Learning |
 
 ### Kết quả đạt được tuần 6:
